@@ -1,2 +1,27 @@
-# ThinkPHP5.0-Vue.js2.0-Element-UI-Admin-
-本人PHPer，平时喜欢写一些开源的东西，同时也希望有前端、后台的小伙伴能一起合作。本项目开源并且一直更新，扫描下方二维码了解更多
+# myadmin
+
+> myadmin
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run all tests
+npm test
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
